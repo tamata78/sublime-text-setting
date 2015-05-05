@@ -1,0 +1,36 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BoundKeys",
+		"BracketHighlighter",
+		"Capybara Snippets",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CTags",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"Local History",
+		"Package Control",
+		"Rails Developer Snippets",
+		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"SCSS",
+		"SimpleClone",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Twitter Bootstrap Snippets",
+		"VBScript"
+	],
+	"repositories":
+	[
+		"https://github.com/mhartl/rails_tutorial_snippets",
+		"https://github.com/noklesta/SublimeRailsNav/tree/ST3"
+	]
+}
